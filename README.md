@@ -13,7 +13,7 @@ pruebatecnica
 
 const url = "URL obtenida del cluster y remplazamos <pasword> por nuestra contraseña";
  
-5)- Luego de haber hecho esto encada una de las carpetas mencionadas, inicialice la carpeta server con el comando npm start 
+5)- Luego de haber hecho esto, encada una de las carpetas mencionadas inicialice la carpeta server con el comando npm start 
 y en seguida hágalo con la carpeta front, alli podra observar como se inicializa el proyecto de chat.
 
 
